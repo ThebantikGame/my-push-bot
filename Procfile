@@ -1,1 +1,0 @@
-bot: python push_bot.py
